@@ -1,0 +1,12 @@
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\bin\Debug\netcoreapp2.2\HotelReservation.Entity.dll
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.csprojAssemblyReference.cache
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.AssemblyInfo.cs
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\bin\Debug\netcoreapp2.2\HotelReservation.DataAccess.deps.json
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\bin\Debug\netcoreapp2.2\HotelReservation.DataAccess.dll
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\bin\Debug\netcoreapp2.2\HotelReservation.DataAccess.pdb
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\bin\Debug\netcoreapp2.2\HotelReservation.Entity.pdb
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.csproj.CopyComplete
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.dll
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.DataAccess\obj\Debug\netcoreapp2.2\HotelReservation.DataAccess.pdb

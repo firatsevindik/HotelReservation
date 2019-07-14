@@ -1,0 +1,9 @@
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\bin\Debug\netcoreapp2.2\HotelReservation.Entity.deps.json
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\bin\Debug\netcoreapp2.2\HotelReservation.Entity.dll
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\bin\Debug\netcoreapp2.2\HotelReservation.Entity.pdb
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.AssemblyInfoInputs.cache
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.AssemblyInfo.cs
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.dll
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.pdb
+C:\Users\Fırat\source\repos\HotelReservation\HotelReservation.Entity\obj\Debug\netcoreapp2.2\HotelReservation.Entity.csprojAssemblyReference.cache

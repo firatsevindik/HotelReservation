@@ -1,0 +1,45 @@
+﻿@model List<HotelReservation.Entity.Concrete.Hotel>
+@{
+    ViewData["Title"] = "Index";
+}
+@*<form asp-controller="Hotel" asp-action="Index">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" name="searchString" placeholder="Where are you going?">
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="submit">Search</button>
+        </div>
+    </div>
+</form>*@
+<div class="container">
+    <div class="row">
+        @foreach (var hotel in Model)
+        {
+            <div class="col-md-4 mt-1">
+                <div class="card" style="width: 18rem; height: 100%">
+                    @if (hotel.HotelImage.Count <= 0)
+                    {
+                        <img src="~/Images/" class="card-img-top" alt="" width="300" height="200">
+
+                    }
+                    else
+                    {
+                        <img src="~/Images/@hotel.HotelImage.First().ImagePath" class="card-img-top" alt="" width="300" height="200">
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@hotel.Name</h5>
+                        <p class="card-text">@hotel.Description</p>
+                        <p class="card-text">
+                            @for (int i = 0; i < hotel.HotelScore.ScoreValue; i++)
+                            {
+                                <i class="fa fa-star"> </i>
+                            }
+                        </p>
+
+                        <a asp-controller="Hotel" asp-action="HotelDetail" asp-route-hotelId="@hotel.Id" class="btn btn-dark">Detail</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

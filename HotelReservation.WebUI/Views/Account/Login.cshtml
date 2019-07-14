@@ -1,0 +1,25 @@
+﻿@model HotelReservation.Entity.Concrete.User
+
+@{
+    ViewBag.Title = "User";
+    Layout = "_Layout";
+}
+
+<div class="col-md-6 offset-3">
+    <form class="form-signin" asp-controller="User" asp-action="Login">
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <label asp-for="UserName" class="sr-only">User Name</label>
+        <input asp-for="UserName" class="form-control" placeholder="User Name" required="" autofocus="">
+        <label asp-for="Password" class="sr-only">Password</label>
+        <input asp-for="Password" class="form-control" placeholder="Password" required="">
+        @if (ViewBag.Errormessage != null)
+        {
+            <span style="color:red;font-weight:bold">
+                <i class="fa fa-exclamation-triangle"></i>@ViewBag.Errormessage
+            </span>
+        }
+        <br />
+        <button class="btn btn-primary btn-block" type="submit">Sign in</button>
+    </form>
+</div>
+
